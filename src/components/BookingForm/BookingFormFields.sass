@@ -1,0 +1,18 @@
+@import "../../assets/styles/App.sass"
+@import "../../assets/styles/mixins.sass"
+@import "../../assets/styles/variables.sass"
+@import "../../assets/styles/input.sass"
+
+.formContainer
+  @include form-container
+
+.formGroup
+  @include form-group
+
+.submitButton
+  @include custom-input
+  background-color: $primary-color
+  color: $text-color
+  border: none
+  cursor: pointer
+  margin-top: 30px
