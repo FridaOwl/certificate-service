@@ -1,0 +1,25 @@
+@import "../../assets/styles/App.sass"
+@import "../../assets/styles/mixins.sass"
+@import "../../assets/styles/variables.sass"
+@import "../../assets/styles/input.sass"
+
+.languageButtons
+  position: absolute
+  top: 10px
+  right: 10px
+  display: flex
+  gap: 10px
+
+.languageButton
+  background: none
+  border: none
+  color: $text-color
+  cursor: pointer
+  font-size: 16px
+
+.languageButton.active
+  font-weight: bold
+  text-decoration: underline
+
+.languageButton:hover
+  text-decoration: underline
