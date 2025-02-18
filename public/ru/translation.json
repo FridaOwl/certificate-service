@@ -1,0 +1,15 @@
+{
+  "welcome": "Добро пожаловать",
+  "certificateType": "Тип сертификата",
+  "selectCertificateType": "Выберите тип сертификата",
+  "firstName": "Имя",
+  "phoneNumber": "Номер телефона",
+  "purchase": "Покупка",
+  "minLengthError": "Минимальная длина 2 символа",
+  "maxLengthError": "Максимальная длина 100 символов",
+  "enterFirstName": "Пожалуйста, введите ваше имя",
+  "emailError": "Недействительный адрес электронной почты",
+  "enterEmail": "Пожалуйста, введите ваш email",
+  "enterPhoneNumber": "Пожалуйста, введите ваш номер телефона",
+  "invalidPhoneNumber": "Неверный номер телефона"
+}

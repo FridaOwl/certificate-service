@@ -1,0 +1,17 @@
+{
+  "welcome": "Welcome",
+  "certificateType": "Certificate type",
+  "selectCertificateType": "Select Certificate Type",
+  "discountType": "Discount Type",
+  "validity_studio_period": "Validity: ?",
+  "firstName": "Name",
+  "phoneNumber": "Phone Number",
+  "purchase": "Purchase",
+  "minLengthError": "Minimum length is 2 characters",
+  "maxLengthError": "Maximum length is 100 characters",
+  "enterFirstName": "Please enter your name",
+  "emailError": "Invalid email address",
+  "enterEmail": "Please enter your email",
+  "enterPhoneNumber": "Please enter your phone number",
+  "invalidPhoneNumber": "invalid phone number"
+}
